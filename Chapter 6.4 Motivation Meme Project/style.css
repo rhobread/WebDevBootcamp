@@ -1,0 +1,23 @@
+*{
+font-family: 'Caveat', cursive;
+font-family: 'Libre Baskerville', serif;
+background-color: black;
+}
+
+.meme{
+    text-align: center;
+}
+
+img{
+    margin-top: 100px;
+    width: 50%;
+    border: 10px solid white;
+}
+
+h1{
+    color: white;
+}
+
+p{
+    color: white;
+}
